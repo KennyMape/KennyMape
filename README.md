@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Kenny Mape</h1>
 <h3 align="center">Soy un Frontend Apasionado</h3>
 
-- 💬 Ask me about **Html, Css, Javascript, React, Vue y angular**
+- 💬 Ask me about **Html, Css, Javascript, React, Vue y Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
